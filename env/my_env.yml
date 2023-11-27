@@ -1,0 +1,15 @@
+name: my_tf_env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.9.0
+  - r-base=3.6.3
+  - r-hashmap
+  - r-r.utils
+  - r-data.table
+  - r-vegan
+  - r-gunifrac
+  - bioconductor-rhdf5
+  - r-readr
+  - r-ggplot2
