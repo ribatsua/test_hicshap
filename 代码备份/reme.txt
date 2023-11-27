@@ -1,0 +1,1 @@
+SraRunTable.txt由https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA607329&o=bases_l%3Aa%253Bacc_s%3Bacc_s%3Aa&s=SRR11120331中Accession list下载获得
